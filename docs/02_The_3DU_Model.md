@@ -4,7 +4,7 @@
 
 Assume the universe consists of complete 3D states updated at an unknown frequency.
 
-A 'frame' contains the complete state of the universe.
+A 'frame' contains the complete state of the 3D universe.
 
 The apparent flow of time is the succession of frame updates.
 
