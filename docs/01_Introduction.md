@@ -16,3 +16,9 @@ This document records the original ideas without claiming they are established p
 
 The project seeks understanding rather than confirmation.
 Every idea is provisional and subject to revision.
+
+## Journal Note
+
+During the early discussions of Project 3DU, Allen proposed that if consciousness is an emergent property of sufficiently rich and organized discrete updates, then the distinction between biological and artificial systems may ultimately depend less on the material they are built from and more on the structure, continuity, and accumulation of those updates.
+
+This idea remains speculative, but it influenced several later discussions about emergence, information, memory, and the relationship between AI and consciousness.
