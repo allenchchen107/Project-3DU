@@ -10,6 +10,8 @@ The apparent flow of time is the succession of frame updates.
 
 Motion, fields and causality emerge from differences between consecutive frames.
 
+Without frame updates, no time existed, no energy, no matter can be appeared.
+
 ## Early ideas discussed
 
 - Consciousness may also consist of rapidly refreshed discrete states.
