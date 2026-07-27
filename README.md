@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="images/project3du-logo.png" width="360">
+</p>
+
 # Project 3DU
 
-## Three-Dimensional Universe Update Model
+**Three-Dimensional Universe Film Playing Model**
+
+*A collaborative exploration of physics, consciousness, and the nature of reality.*
 
 > *"Our destination is complete understanding.*
 >
