@@ -1,6 +1,6 @@
-# Project 3DU
-
-![Project 3DU Logo](logo.png)
+<p align="center">
+  <img src="images/project3du-logo.png" width="360">
+</p>
 
 # Project 3DU
 **Three-Dimensional Universe Update Model**
