@@ -125,8 +125,37 @@ Questions, criticisms, alternative explanations, and proposed experiments are al
 
 This repository is released under the MIT License unless otherwise specified.
 
+
+## DISCLAIMER
+
+Project 3DU is an independent research notebook.
+
+The ideas presented here range from:
+
+observations,
+engineering analogies,
+mathematical questions,
+speculative hypotheses.
+
+Nothing in this repository should be interpreted as an established scientific theory unless explicitly supported by experimental evidence.
+
+The purpose of this project is exploration, discussion, and the generation of testable ideas.
+
+We welcome constructive criticism.
+
+Changing our minds in the presence of better evidence is considered progress rather than failure.
 ---
 
+## Our Motto
+
+> **Curiosity begins the journey.**
+>
+> **Evidence guides the path.**
+>
+> **Humility keeps us moving.**
+>
+> **100% certainty remains our ultimate goal, while we celebrate every step that brings us closer.**
+> 
 *"The universe has no obligation to match our intuition.*
 
 *Our responsibility is to keep asking better questions, remain honest about uncertainty, and follow evidence wherever it leads."*
